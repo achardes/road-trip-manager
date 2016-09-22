@@ -9,11 +9,16 @@ title: Map test
 
 <script>
 	function initMap() {
-	var mapDiv = document.getElementById('map');
-	var map = new google.maps.Map(mapDiv, {
-		center: {lat: 44.540, lng: -78.546},
-		zoom: 8
-	});
+		var mapDiv = document.getElementById('map');
+		var map = new google.maps.Map(mapDiv, {
+			center: {lat: 44.540, lng: -78.546},
+			zoom: 8
+		});
+
+		var ctaLayer = new google.maps.KmlLayer({
+			url: 'http://achardes.github.io/road-trip-manager/map/data_map.kml',
+			map: map
+		});
 	}
 </script>
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBMDSu7tTQay_CyK8aHdFC67WQSp8NgvCI&callback=initMap"></script>
