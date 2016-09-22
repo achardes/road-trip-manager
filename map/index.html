@@ -15,10 +15,12 @@ title: Map test
 			zoom: 8
 		});
 
-		var ctaLayer = new google.maps.KmlLayer({
-			url: 'http://achardes.github.io/road-trip-manager/map/data_map_2.kml',
-			map: map
-		});
+		map.data.loadGeoJson('http://achardes.github.io/road-trip-manager/map/data_map.json');
+
+		// var ctaLayer = new google.maps.KmlLayer({
+		// 	url: 'http://achardes.github.io/road-trip-manager/map/data_map_2.kml',
+		// 	map: map
+		// });
 	}
 </script>
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBMDSu7tTQay_CyK8aHdFC67WQSp8NgvCI&callback=initMap"></script>
