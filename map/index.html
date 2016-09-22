@@ -4,6 +4,7 @@ title: Map test
 ---
 
 <div id="map"></div>
+<div id="info-box"></div>
 
 <!--iframe src="https://www.google.com/maps/d/embed?mid=15iSxoUY4tK6vquNA7-5t4yQhIFA" width="832" height="600"></iframe-->
 
@@ -16,6 +17,13 @@ title: Map test
 		});
 
 		map.data.loadGeoJson('http://achardes.github.io/road-trip-manager/map/data_map.json');
+
+
+		  // Set mouseover event for each feature.
+		map.data.addListener('mouseover', function(event) {
+			document.getElementById('info-box').textContent =
+				event.feature.getProperty('name');
+		});
 
 		// var ctaLayer = new google.maps.KmlLayer({
 		// 	url: 'http://achardes.github.io/road-trip-manager/map/data_map_2.kml',
