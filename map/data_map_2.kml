@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>2OZR AM Nord</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Culturel</name>
+			<Placemark>
+				<name>Agua Azul Waterfalls</name>
+				<description><![CDATA[située à 64km de Palenque (2h en taxi). Magnifique suite de cascades qui se déversent dans des vasques successives. Sur Le chemin du retour, on s’arrête 1h à Misol-Ha, une chute d’eau de 30m qui tombe dans un très beau bassin du rio]]></description>
+				<Point>
+					<coordinates>-92.114441,17.259024,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lunenburg</name>
+				<description><![CDATA[Un port de pêche authentique et typique canadien petit port inscrit à l’Unesco. Beau musé de la pèche.]]></description>
+				<Point>
+					<coordinates>-64.318835,44.377005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hierve el Agua</name>
+				<description><![CDATA[·        les lieux c’est superbe, 2 bassins d’eauturquoise débordent en cascades pétrifiées sur la montagne, composés decarbonate de calcium. Des piscines naturelles à débordement en quelque sorte,c’est impressionnant (a faire en bus local)]]></description>
+				<Point>
+					<coordinates>-96.276766,16.865796,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>canyonde Sumidero</name>
+				<description><![CDATA[Embarquer sur une lancha pour une ballade de 2 heures sur le rio Grijalva entre des parois qui atteignent jusqu'à 1000 m de hauteur, signes et crocodiles.]]></description>
+				<Point>
+					<coordinates>-93.133269,16.849891,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grutas de Loltún</name>
+				<description><![CDATA[Les grottes de Loltun On les visites en fin dematinée, magnifiques, ces grottes ont été le refuge des Mayas durant les invasions]]></description>
+				<Point>
+					<coordinates>-89.455528,20.253422,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Diving Cenotes Tulum</name>
+				<description><![CDATA[Tulum cenotes 2 Ojos (de Tulum à Akumal) le "Gran Cenote" est magnifique, masque/tuba, nager au milieu des poissons et des grosses stalactites dans une eau bleue d'une transparence incroyable. C'est le seul vestige maya situé en bord de mer. Xel-Hà, un parc gigantesque qui abrite une magnifique lagune de 14ha (le site fait 84ha en tout). L’entrée y est assez chère (60€ adulte, 30€ enfant), mais on a accès à volonté à toutes les activités]]></description>
+				<Point>
+					<coordinates>-87.467382,20.210584,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cenote Keken</name>
+				<description><![CDATA[X-Keken Cenote. Lac souterrain dans lequel plonge d'immenses stalactites est éclairé par un faisceau de lumière qui pénètre à travers la voute percée.]]></description>
+				<Point>
+					<coordinates>-88.242778,20.660833,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>cenoteX’canché</name>
+				<description><![CDATA[Elle se trouve dans l’enceinte du site. Bassins d’eau dans la jungle, il y en a beaucoup dans le Yucatan. C’est très beau]]></description>
+				<Point>
+					<coordinates>-88.203682,20.693267,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Akumal</name>
+				<description><![CDATA[·        C’est la plage de prédilection pour nager avecles tortues. Tout prêt : cenote azul (bassin) plage d’Akumal. « lieu destortues » car ici il y a une algue en abondance dont elles raffolent, unendroit magique, pour apprécier Akumal, il faut mettre un masque est se mettreà l'eau et là, c'est un spectacle superbe : des tortues un peu partout, desraies aigle léopard, des raies américaines et plein d'autres poissons]]></description>
+				<Point>
+					<coordinates>-87.315901,20.395974,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Laguna Bacalar</name>
+				<description><![CDATA[·        Voilà un petit coin de paradis tranquille queles touristes n’ont pas encore totalement investi. C’est un lac de 70km de longcomposé d’eau douce et d’eau salée qui doit toute sa beauté à la variété de sestons de bleu.]]></description>
+				<Point>
+					<coordinates>-88.405563,18.657298,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Majahual</name>
+				<description><![CDATA[Endroit pour plonger, notamment sur le Banco Chinchorro, le plus grand atoll corallien de l'hémisphère nord avec ses 45 km de long et ses 14 km de large. Récif corallien de Xcalak.]]></description>
+				<Point>
+					<coordinates>-87.707904,18.716254,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Playa del Carmen</name>
+				<description><![CDATA[Plongée avec des requins bouledogue]]></description>
+				<Point>
+					<coordinates>-87.073885,20.629559,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Celestún</name>
+				<description><![CDATA[Reserve écologique. Mangrove et oiseau, flamands roses.]]></description>
+				<Point>
+					<coordinates>-90.397205,20.859304,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Maruata</name>
+				<description><![CDATA[le long des côtes sauvage de l'état du Michoacan. Près de 2'500 tortues noires viennent pondre sur les plages de Maruata chaque année. A la nuit tombée, vers 20h00 on peut les observer.]]></description>
+				<Point>
+					<coordinates>-103.344765,18.273221,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Isla Holbox</name>
+				<description><![CDATA[Un petit paradis babacool ! Les rues sablonneuse accueillent très peu de véhicule à moteur. Voir les 1200 coups de cœur du Routard]]></description>
+				<Point>
+					<coordinates>-87.382184,21.519376,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cozumel</name>
+				<description><![CDATA[Petite ile dont les fonds marins on été découverts par Coustaud dans les années 50. Superbes poissons multicolores. Voir les 1200 coups de cœur du Routard]]></description>
+				<Point>
+					<coordinates>-86.908065,20.431006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kamloops</name>
+				<description><![CDATA[De Kamloops à 100 Mile House, d'emprunter la route secondaire 24 traversant une zone montagneuse et boisée parsemée de lacs. Une très belle région, un endroit superbe pour bivouaquer au bord d'un lac, le Janice Lake, situé dans le Emar Lakes Recreation Site]]></description>
+				<Point>
+					<coordinates>-120.327267,50.674522,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kitwanga</name>
+				<description><![CDATA[Village indien de Ksan, près de Kitwanga, où trônent de gigantesques totems en bois sculpté, voir des saumons rouges du pacifique à Hanna Creek, un ruisseau près de Meziadin.]]></description>
+				<Point>
+					<coordinates>-128.026775,55.111672000000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hyder</name>
+				<description><![CDATA[Hyder, vue plongeante sur le glacier Salmon, un glacier dont la langue de glace semble infinie. Une petite promenade permet de rejoindre le lac formé au pied du glacier. Jolie balade, passer la nuit surplace, juste en face du glacier.]]></description>
+				<Point>
+					<coordinates>-130.02768,55.917725,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yoho National Park</name>
+				<description><![CDATA[Parc Yoho. chutes Takakkaw pour passer la nuit. Le lendemain matin, superbe randonnée de 20 km en limite des glaciers, leIceline Trail]]></description>
+				<Point>
+					<coordinates>-116.583333,51.466667,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grands-Jardins National Park</name>
+				<description><![CDATA[Parc des Grands-Jardins dans la Réserve des Laurentides fréquenté par les pêcheurs, les randonneurs, les campeurs et les villégiateurs. Ce parc national a le privilège de constituer l'une des Aires Centrales de la Réserve mondiale de la biosphère de Charlevoix, statut accorde à la région par l'UNESCO.]]></description>
+				<Point>
+					<coordinates>-70.85,47.683333,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parc National de La Pointe-Taillon</name>
+				<description><![CDATA[Parc de la Pointe-Taillon pour voir les castors]]></description>
+				<Point>
+					<coordinates>-71.966667,48.7,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Baie de Fundy</name>
+				<description><![CDATA[Kouchibouguac : parc national, magnifique endroit entre forêts et dunes de sable, Hopewell Rocks, Baie de Fundy. Deux fois par jour, la célèbre Baie de Fundy se remplit et se vide de 100 milliards de tonnes d’eau, créant les plus importantes marées du monde. S’étendant de la Nouvelle-Écosse au Nouveau-Brunswick, la baie attire des touristes qui s’extasient devant le riche écosystème et l’éblouissante côte – et qui veulent vivre l’excitation de marché sur la crête rocheuse au bord de la marée haute.]]></description>
+				<Point>
+					<coordinates>-65.2987387,45.1982702,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lassen Volcanic National Park</name>
+				<description><![CDATA[Parc volcanique ressemble a un petit Yellowstone]]></description>
+				<Point>
+					<coordinates>-121.420655,40.49766,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cathedral Gorge State Park Rd</name>
+				<description><![CDATA[Cathedral Gorge Parc : Pleins de rochers en forme de bougies, dans les tons rouges, magnifique]]></description>
+				<Point>
+					<coordinates>-114.411781,37.813761,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Crater Lake National Park</name>
+				<description><![CDATA[Crater Lake : Lac rond dans un cratère de volcan]]></description>
+				<Point>
+					<coordinates>-122.167969,42.868919,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Muir Woods National Monument</name>
+				<description><![CDATA[Muir Woods parc et de ses pins Red Woods, lesplus hauts arbres du monde, tels les piliers d’une cathédrale végétale,semblant toucher le ciel]]></description>
+				<Point>
+					<coordinates>-122.578071,37.895369,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Malibu</name>
+				<description><![CDATA[GettyVilla, un magnifique musée créé par un magnat du pétrole et regroupant saprestigieuse collections d’œuvres antiques grecques, romaines et étrusques,dans un musée reproduisant à l’identique une villa romaine.  le respect des œuvres (dont certaines sontexceptionnelles) est partout, celles-ci sont mises en valeur et le musée esttrès instructif. Gratuit]]></description>
+				<Point>
+					<coordinates>-118.779757,34.025922,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Los Angeles</name>
+				<description><![CDATA[Centre des Sciences de Californie, musée gratuit fourmillant de collections et orienté vers la découverte par l’expérience et le jeu]]></description>
+				<Point>
+					<coordinates>-118.24368499999999,34.052234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Diego</name>
+				<description><![CDATA[Visiter le zoo, au cœur du très beau parc Balboa. Lieu qui respect les animaux, plus que dans d’autres zoos. Voir pandas, les gorilles et les orangs outangs entre autres. Prévoir au moins 6h.]]></description>
+				<Point>
+					<coordinates>-117.157255,32.715329,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Oaxaca</name>
+				<description><![CDATA[Lesoir du 23 décembre les foules viennent célébrer la nuit des radis sous lesarcades du Zócalo. Les œuvres végétales reprennent principalement les thèmes deNoël : scènes de la Bible, crèche, visite des rois mages.]]></description>
+				<Point>
+					<coordinates>-96.721903,17.06863,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parc national de Redwood</name>
+				<Point>
+					<coordinates>-124.004628,41.213179000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Templo Mayor</name>
+				<Point>
+					<coordinates>-99.131881,19.434604,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tecolutla</name>
+				<description><![CDATA[Tecolutla is a town and municipality on the eastern coast of the state of Veracruz in Mexico. It is the closest beach to Mexico City and much of its economy is based on attracting people from this city, as it is only a four or five-hour drive.[1][2] It is also the northern end of a tourist corridor called the “Emerald Coast” that extends down to the city of Veracruz.[1] Tecolutla’s biggest attraction is its geography with its estuaries, canals and mangroves.[3] The town is also known for the “Tecolutla Monster,”—probably a dead whale—that was washed ashore in 1969. Its remains are kept at the Marine Museum.[2] The name Tecolutla means “place of the tecolotes or owls.”[4]]]></description>
+				<Point>
+					<coordinates>-97.010127,20.479552,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Catemaco Veracruz</name>
+				<description><![CDATA[Nanciyaga : Parque Ecologico a quelques km de Catemaco également au bord du lac et en pleine jungle. L'endroit est magnifique entre la foret tropicale peuplée de singes hurleurs, tortutes, varans, crocodiles… et le lac en contrebas. Bivouac possible sur le parking du parc. Belle balade dans la jungle le long d'un parcours parsemé de statues Olmeques et autres.]]></description>
+				<Point>
+					<coordinates>-95.108784,18.419558,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yal-ku</name>
+				<description><![CDATA[Caleta Yal-ku proche d’Akumal, magnifique lagond'eau turquoise sépare de la mer par un recif coralien et situe dans unsomptueux environnement. C’est un gigantesque aquarium naturel(constitue d'unmelange d'eau de mer et d'eau douce venant de cenotes avoisinantes) idéal pourfaire du snorkeling, un petit bijou de nature!]]></description>
+				<Point>
+					<coordinates>-87.304573,20.410232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cuzamá</name>
+				<description><![CDATA[Cuzama petit village au sud de Merida : 3 nouvelles cenotes. Bivouaque sur le parking des cenotes. Ces 3 puits ont une particularité : on y accède par un petit wagon tiré par un cheval. Les 2 premières cenotes sont magnifiques : deux grands trous d’une eau cristalline ou les racines des arbres descendent du plafond chercher l’eau. Pour la troisième, on y accède par une échelle, au pied du tronc, au milieu des racines d’un arbre. Nous nageons juste une vingtaine de mètres au milieu des stalagmites et stalactites à la lueur d’une lampe torche dans une sorte de caverne.]]></description>
+				<Point>
+					<coordinates>-89.32681,20.71171,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parc provincial des Dinosaures</name>
+				<description><![CDATA[Outre ses paysages d'une grande beauté, le parc, situé au cœur des bad-lands de la province de l'Alberta, contient les vestiges les plus importants qu'on ait jamais trouvés de l'« âge des reptiles ». Il s'agit en particulier d'environ 35 espèces de dinosaures remontant à quelque 75 millions d'années.]]></description>
+				<Point>
+					<coordinates>-111.4837646,50.7703393,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Le Head-Smashed-In-Buffalo Jump</name>
+				<description><![CDATA[Le site du précipice à bisons Head-Smashed-In (Head-Smashed-In Buffalo Jump ; littéralement « Tête fracassée »), situé à 18 km au nord-ouest de Fort Macleod (Alberta, Canada) sur la route 785, là où les contreforts des Montagnes Rocheuses commencent à s'élever au-dessus de la Prairie, est inscrit sur la liste du patrimoine mondial de l'UNESCO. Il constitue un véritable musée en plein air de la culture amérindienne.]]></description>
+				<Point>
+					<coordinates>-113.6530495,49.7053881,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parc national de Kenai Fjords</name>
+				<description><![CDATA[Le parc national de Kenai Fjords (Kenai Fjords National Park) est un parc national américain situé au sud de l'État de l'Alaska. Il comprend quelque 40 glaciers, 23 espèces de mammifères marins, 20 espèces d’oiseaux marins1. Il offre de somptueux paysages de baies, de fjords et d'îlots rocheux où l'on peut observer des pingouins, des macareux, des cormorans, des phoques, des otaries de Steller, des baleines grises et à bosse, des orques, des marsouins de Dall et des loutres de mer.  C'est un parc accessible par la route via le glacier Exit.]]></description>
+				<Point>
+					<coordinates>-149.8123169,60.0470179,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parc national et réserve de Denali</name>
+				<description><![CDATA[Denali-McKinley, le parc national américain le plus vaste après le Yellowstone, déploie ses immensités glaciaires couvertes de forêts et de lacs à 400 km au sud du cercle polaire arctique. Sa beauté sévère est réhaussée par la majestueuse montagne qui, depuis 55 millions d'années dresse sa masse de granit vers le ciel.]]></description>
+				<Point>
+					<coordinates>-151.1883545,63.11463760000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Prince William Sound</name>
+				<description><![CDATA[Par la route de Valdez ou bateau]]></description>
+				<Point>
+					<coordinates>-146.96548460000002,60.8422343,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Glacier Bay</name>
+				<description><![CDATA[Le parc national de Glacier Bay est une réserve naturelle d’Alaska classée au patrimoine mondial de l’humanité. 20 % de sa superficie est constituée par une réserve marine. Ces paysages de fjords, et de champs de glace abritent des espèces menacées comme la baleine à bosse ou l’otarie de Steller.]]></description>
+				<Point>
+					<coordinates>-135.98327640000002,58.5281252,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Porte de Cercle Polaire</name>
+				<Point>
+					<coordinates>-150.8105278,66.5559138,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Rushmore National Memorial</name>
+				<Point>
+					<coordinates>-103.4590667,43.87910249999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Antelope Island Marina</name>
+				<description><![CDATA[A 45 minutes en voiture de Salt Lake City, Antelope Island (reliée à la terre par une route) est la plus grande des huit îles qui émergent du Grand Lac Salé. Elle mesure environ 24 kilomètres de long sur 11 kilomètres dans sa partie la plus large. C’est là, dans cet environnement calme et préservé doté d’une vraie richesse biologique, géologique et historique, que vit en liberté l’un des plus importants troupeaux de bisons de l’Utah (il compte 500 têtes), mais aussi une foule d’autres animaux, comme des antilopes, des coyotes et des brebis. Le parc est également peuplé d’innombrables oiseaux, chouettes et autres faucons très discrets mais bien présents… Des visites accompagnées de guides expérimentés permettent de débusquer et d’observer tous ces fascinants êtres sauvages.]]></description>
+				<Point>
+					<coordinates>-112.2351439,41.0602641,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colorado National Monument</name>
+				<description><![CDATA[Situé dans l'état du Colorado, avec ses falaises rougeoyantes, ses roches aux formes étranges érodées par le temps et ses genévriers, ce petit parc tranquille a pourtant tout de l'Utah. Il peut être d'ailleurs une excellente mise en appétit si vous roulez en direction de la région de Moab, avant la visite de Canyonlands. Vous y découvrirez des canyons à taille humaine, facilement accessibles, et des vues superbes sur Grand Valley, qui tient son appellation de Grand River, le nom qu'avaient donné au fleuve Colorado les premiers trappeurs anglo-saxons ayant traversé la région.]]></description>
+				<Point>
+					<coordinates>-108.7257084,39.046077,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dinosaur Quarry Visitor Center</name>
+				<Point>
+					<coordinates>-109.3070513,40.4381373,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kodachrome Basin State Park</name>
+				<Point>
+					<coordinates>-111.9943515,37.5134751,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Goblin Valley State Park</name>
+				<Point>
+					<coordinates>-110.70628699999997,38.5689742,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Valley of Fire</name>
+				<Point>
+					<coordinates>-114.5143309,36.43034519999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Red Rock Canyon National Conservation Area</name>
+				<Point>
+					<coordinates>-115.46671459999999,36.1787892,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Big Bend National Park</name>
+				<Point>
+					<coordinates>-103.2425379,29.1274869,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>White Sands National Monument</name>
+				<description><![CDATA[Située dans le bassin de Tularosa, entourée de montagnes, la cuvette de White Sands abrite le plus grand désert de gypse du monde. Le sable poussé par le vent forme des dunes brillantes, particulièrement appréciées des photographes.]]></description>
+				<Point>
+					<coordinates>-106.3256816,32.7872403,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Wave</name>
+				<Point>
+					<coordinates>-112.00613020000003,36.9956293,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Coyote Buttes South</name>
+				<Point>
+					<coordinates>-112.01129070000002,36.9677632,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Départ Edmaier's Secret Trail</name>
+				<description><![CDATA[Du nom du celèbre photographe auteur de Earthsong (le chant de la terre), cet endroit situé dans Vermillion cliffs wilderness est un témoignage des millions d'années d'érosion qu'a connu cette région. la roche y est encore plus fragile que nulle part ailleurs et se présente sous forme de dentelle très fragile. C'est pourquoi si vous souhaitez vous y rendre vous devrez être très vigilant et toujours regarder où vous mettez les pieds pour ne pas détruire à jamais cet héritage de la nature. L'itinéraire décrit ci dessous à partir de Burckin Gulch trailhead est purement indicatf. allez jusqu'où bon vous semble pour explorer cet endroit incroyable (en ce qui nous concerne il nous reste pas mal à y découvrir)]]></description>
+				<Point>
+					<coordinates>-111.99965,37.0674714,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Painted Desert</name>
+				<Point>
+					<coordinates>-109.90344529999999,34.99876190000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parc national des Badlands</name>
+				<Point>
+					<coordinates>-102.3396912,43.8553804,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Départ Trail pour Cathedral Wash</name>
+				<description><![CDATA[0.3 miles après le pont, prenez en direction du nord la route qui va vers Lee's Ferry. Après environ 1.3 miles vous verrez un petit parking sur la gauche de la route. Traversez la route et continuez à pied pendant quelques dizaines de mètres et vous apercevrez le wash au pied d'une petite descente sur la droite. Empruntez ensuite le wash vers l'est jusqu'au Colorado.]]></description>
+				<Point>
+					<coordinates>-111.6381741,36.8348096,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Latourell Falls</name>
+				<description><![CDATA[a partir du centre de Portland prendre l'I84 qui longe la columbia river et prendre la sortie 16 à Troutdale pour emprunter la Historic Columbia river Highway qui mène à:<br>- Guy talbot state park pour accéder à Latourel falls<br>- Bridal veil state park qui permet d'accéder à la cascade du même nom<br>- Wahkeena falls<br>- Multnomah falls et triple falls<br>- Horse tail falls<br>vous reprendrez alors l'I84 à hauteur de l'exit 35 pour accéder à<br>- Elowah falls à la sortie 37 dans John B Yeon State park<br>- Wahclella falls à la sortie 40. après Bonneville dam, on passe sous l'I84 et une route très courte mène au trailhead.]]></description>
+				<Point>
+					<coordinates>-122.2178793,45.5370164,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fantasy Canyon</name>
+				<description><![CDATA[A environ 24 miles de vernal sur la route US45, vous arriverez à red wash où il faut alors prendre la glen bench road sur la droite pendant environ 16 miles avant de prendre une piste sur la gauche. A partir de ce moment, Fantasy canyon sera indiqué. (ouestusa;fr)]]></description>
+				<Point>
+					<coordinates>-109.3948491,40.0555207,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mooney Falls</name>
+				<Point>
+					<coordinates>-112.70840229999999,36.2631536,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Soap Creek Pasture</name>
+				<description><![CDATA[Site **** <br>prendre un tour opérateur 175 D/Pers<br>http://www.paria.com/  southeast plateau]]></description>
+				<Point>
+					<coordinates>-111.7784997,36.7947086,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lac Emerald</name>
+				<description><![CDATA[Situé au sud du Yukon, le lac Emerald tire son nom de son eau émeraude. Cette couleur est obtenue en raison du reflet de la lumière sur le fond blanc du lac constitué d’argile et de carbonate de calcium.]]></description>
+				<Point>
+					<coordinates>-116.5392665,51.4404683,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parc national de Miguasha</name>
+				<description><![CDATA[Situé dans la région du Québec méridional, sur la côte sud-ouest de la péninsule gaspésienne, le parc national de Miguasha est un site paléontologique remarquable, considéré comme la meilleure illustration de la période du dévonien ou « âge des poissons ». Datée de 370 millions d'années, la formation d'Escuminac, dévonien supérieur, renferme cinq des six groupes de poissons fossiles associés à cette période. L'importance de ce site tient au fait qu'on y trouve la plus grande concentration de spécimens fossiles de poissons à nageoires charnues – en état exceptionnel de conservation – qui sont les ancêtres des premiers vertébrés terrestres respirant de l'air : les tétrapodes.]]></description>
+				<Point>
+					<coordinates>-66.3481915,48.1042679,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parc national des Grands-Jardins</name>
+				<description><![CDATA[Déjà, au début du 20e siècle, la région était réputée pour ses incroyables secteurs de pêche. Frappés par les tapis de lichens et la végétation nordique exceptionnelle à cette latitude, les gens lui ont donné le nom de Grands-Jardins. Aujourd'hui, le parc national des Grands-Jardins est toujours fréquenté par les pêcheurs, mais aussi par les randonneurs, les campeurs et les villégiateurs. Ce parc national a le privilège de constituer l'une des Aires centrales de la Réserve de la biosphère de Charlevoix, statut accordé à la région par l'UNESCO.]]></description>
+				<Point>
+					<coordinates>-70.6276953,47.6662112,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mono Lake</name>
+				<Point>
+					<coordinates>-119.107933,37.9731618,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sedona</name>
+				<Point>
+					<coordinates>-111.76098960000002,34.8697395,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mendenhall Glacier Visitor Center</name>
+				<Point>
+					<coordinates>-134.54725540000004,58.41664849999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hubbard Glacier</name>
+				<Point>
+					<coordinates>-139.48469969999996,59.9991331,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>BIVOUACS</name>
+			<Placemark>
+				<name>Dinosaur RV Park</name>
+				<Point>
+					<coordinates>-112.7147263,51.4724145,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RV PARK</name>
+				<Point>
+					<coordinates>-74.0439463,40.7119227,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cheesequake State Park campground</name>
+				<Point>
+					<coordinates>-74.2637218,40.4348479,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boston Minuteman Campground</name>
+				<Point>
+					<coordinates>-71.53652599999998,42.5499387,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RV Park MIAMI</name>
+				<Point>
+					<coordinates>-80.128414,25.7969523,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RV Park</name>
+				<description><![CDATA[Dockweiler Beach RV Park est définitivement le meilleur endroit pour dormir en VR à Los Angeles et visiter la ville. Le camping est situé directement sur le bord de la plage. Étant situé juste à côté de l'aéroport, il faut savoir toutefois que l'endroit est très bruyant. Il n'y a pas d'avion seulement entre 12h00 et 4h00 du matin.<br><br>Il vous sera possible de vous rendre à Venice Beach et Santa Monica en vélo via la piste cyclable qui passe juste en face de vous, entre le camping et la plage.]]></description>
+				<Point>
+					<coordinates>-118.4412003,33.9399421,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Golden Shore RV Resort</name>
+				<Point>
+					<coordinates>-118.2031059,33.7651454,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fjord du Saguenay</name>
+				<description><![CDATA[Bivouac au camping du parc, ce coin étant connu pour une jolie marche menant à la baie Marguerite où l’on peut y observer des bélugas (petites baleines blanches)]]></description>
+				<Point>
+					<coordinates>-70.501093,48.360528,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Candlestick RV Park</name>
+				<description><![CDATA[La Candlestick RV Park de San Francisco est un camping où passer la nuit et qui offre sur place un efficace système de navette ($) entre le camping et le centre-ville de San Francisco. L'endroit est bien mais sans plus. On y va surtout pour la facilité du transport vers la ville.]]></description>
+				<Point>
+					<coordinates>-122.3837712,37.7167593,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Francisco RV Resort</name>
+				<description><![CDATA[Il y a aussi le San Francisco RV Resort qui offre une vue magnifique sur l'océan Pacifique et ses couchers de soleil. Le transport vers le centre-ville se fait un peu moins bien qu'au Candlestick mais l'endroit est nettement plus jolie.]]></description>
+				<Point>
+					<coordinates>-122.4922787,37.6462307,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parc provincial du Mont Robson</name>
+				<description><![CDATA[bivouac sur le parking du visitor center]]></description>
+				<Point>
+					<coordinates>-119.0,53.05,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
