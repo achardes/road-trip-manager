@@ -4,7 +4,11 @@ title: Map test
 ---
 
 <div id="map"></div>
-<div id="info-box"></div>
+<div style="font-weight:bold" id="name-box"></div>
+<div id="description-box"></div>
+<br/>
+<br/>
+<br/>
 
 <!--iframe src="https://www.google.com/maps/d/embed?mid=15iSxoUY4tK6vquNA7-5t4yQhIFA" width="832" height="600"></iframe-->
 
@@ -20,9 +24,9 @@ title: Map test
 
 
 		  // Set mouseover event for each feature.
-		map.data.addListener('mouseover', function(event) {
-			document.getElementById('info-box').textContent =
-				event.feature.getProperty('name');
+		map.data.addListener('click', function(event) {
+			document.getElementById('name-box').textContent = event.feature.getProperty('name');
+			document.getElementById('description-box').textContent = event.feature.getProperty('description');
 		});
 
 		// var ctaLayer = new google.maps.KmlLayer({
